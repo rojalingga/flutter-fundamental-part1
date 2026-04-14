@@ -1,17 +1,19 @@
 # hello_world
 
-A new Flutter project.
+Nama : Rojalingga Prana Abinaya
+Kelas : SIB 2F
+No. Presensi : 16
+NIM : 244107060070
 
-## Getting Started
+# Praktikum 1 : Membuat Projek Flutter Baru
+![Screenshoot hello_world](images/01.png)
 
-This project is a starting point for a Flutter application.
+# Praktikum 2 : Menghubungkan dengan Emulator
+![Screenshoot hello_world](images/02.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Praktikum 3 : Membuat Repo Github dan Laporan Praktikum
+![Screenshoot hello_world](images/03.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Start Run and Debug Flutter
+![Screenshoot hello_world](images/04.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
