@@ -17,3 +17,12 @@ NIM : 244107060070
 Start Run and Debug Flutter
 ![Screenshoot hello_world](images/04.png)
 
+# Praktikum 4: Menerapkan Widget Dasar
+
+Text Widget
+![Screenshoot hello_world](images/05.png)
+
+Image Widget
+![Screenshoot hello_world](images/06.png)
+
+
